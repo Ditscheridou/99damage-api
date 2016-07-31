@@ -7,6 +7,9 @@
     "type": "git",
     "url": "git://github.com/derpierre65/99damage-api.git"
   },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "bugs": {
     "url": "http://github.com/derpierre65/99damage-api/issues"
   },

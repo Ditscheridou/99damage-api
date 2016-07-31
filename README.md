@@ -1,8 +1,9 @@
 # 99Damage API
 ## A NodeJS API for [99damage.de](http://99damage.de)
 
-[![NPM Version][npm-image]][npm-url]
-[![NPM Downloads][downloads-image]][downloads-url]
+[![npm](https://img.shields.io/node/v/99damage-api.svg?maxAge=604800)](https://www.npmjs.com/package/99damage-api)
+[![npm](https://img.shields.io/npm/dt/99damage-api.svg?maxAge=604800)](https://www.npmjs.com/package/99damage-api)
+[![npm](https://img.shields.io/npm/dm/99damage-api.svg?maxAge=604800)](https://www.npmjs.com/package/99damage-api)
 
 ### How to install
 ```npm install --save 99damage-api```  
