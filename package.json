@@ -1,0 +1,28 @@
+{
+  "name": "99damage-api",
+  "version": "0.1.0",
+  "description": "Get all matches from 99damage.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/derpierre65/99damage-api.git"
+  },
+  "bugs": {
+    "url": "http://github.com/derpierre65/99damage-api/issues"
+  },
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "request": "^2.58.0"
+  },
+  "keywords": [
+    "99damage",
+	"api",
+	"csgo",
+	"matches"
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "author": "derpierre65 <admin@derpierre65.de> (http://derpierre65.de/)",
+  "license": "GNU"
+}
